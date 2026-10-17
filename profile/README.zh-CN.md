@@ -6,7 +6,7 @@
 
 <p align="center">把 AI 智能体、文件和工具放在同一个原生工作区</p>
 
-<p align="center"><a href="https://github.com/sailry">English</a></p>
+<p align="center"><a href="https://github.com/sailry">English</a> | <strong>简体中文</strong></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sailry/sailry-harness/main/assets/readme/workspace-dark.png" alt="Sailry 暗色模式工作区" width="860" />

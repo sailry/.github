@@ -6,7 +6,7 @@
 
 <p align="center">AI agents, files and tools in one native workspace</p>
 
-<p align="center"><a href="https://github.com/sailry/.github/blob/main/profile/README.zh-CN.md">简体中文</a></p>
+<p align="center"><strong>English</strong> | <a href="https://github.com/sailry/.github/blob/main/profile/README.zh-CN.md">简体中文</a></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sailry/sailry-harness/main/assets/readme/workspace-dark.png" alt="Sailry workspace in dark mode" width="860" />
